@@ -11,6 +11,8 @@
 >https://androidknowledge.com/login-signup-android-studio-firebase-realtime/
 ###### 5.realtime location youtube playlist: ######
 >https://www.youtube.com/watch?v=tyVdohSf4d4&list=PLaoF-xhnnrRUNbd3MBUlLVdE1oXi0YCoI
+###### 6.check out freecodecamp youtube channel: ######
+>https://www.youtube.com/watch?v=fis26HvvDII&ab_channel=freeCodeCamp.org
 ## extra material: ##
 ###### how to track your location using gps: ######
 >https://www.youtube.com/watch?v=FknRti6n_F8
